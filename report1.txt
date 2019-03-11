@@ -15,7 +15,7 @@ Mobile Programming
 	    Git Clone command is used to link with my all repositories
 
 	$ git clone "https://github.com/babitapaul/mad314-cv-babitapaul.git"
-	Cloning into 'MAD314-CV-babitapaul'
+	Cloning into 'mad314-cv-babitapaul'
 
 	>git add -A:- this command is used to add a file in the existing directory.
 	>git status:- the command is used to show the state of working directory.
