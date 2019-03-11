@@ -1,0 +1,27 @@
+Mobile Programming
+
+       ID:1896665                       NAME: BABITA PAL
+  
+                 REPORT OF MY ASSIGNMENT:
+
+                 Commands Used in Git Bash:
+
+	>pwd:- Print Working Directory this command is used to check the current folder.
+	>mkdir <foldername>:- it used to make a new directory or new folder.
+	>cd <dir name>:- it used to check or change a directory.
+	>cd ..: it is used to move to the parent folder of the current folder
+	>ls:- it is used to check the list of all file content of a directory.
+	>git clone:- it is used to copy existing repository to create a clone . 
+	    Git Clone command is used to link with my all repositories
+
+	$ git clone "https://github.com/babitapaul/mad314-cv-babitapaul.git"
+	Cloning into 'MAD314-CV-babitapaul'
+
+	>git add -A:- this command is used to add a file in the existing directory.
+	>git status:- the command is used to show the state of working directory.
+	>git commit -m "":- this command is used to commit the existing directory, in this command you can add a messgae also as a statement.
+	>git push:- this command is used to push my file to the my created repository.
+
+
+
+
